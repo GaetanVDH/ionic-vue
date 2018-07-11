@@ -35,7 +35,8 @@
     "zone.js": "0.8.26"
   },
   "config": {
-    "ionic_webpack": "./config/webpack.config.js"
+    "ionic_webpack": "./config/webpack.config.js",
+    "ionic_watch": "./config/watch.config.js"
   },
   "devDependencies": {
     "@ionic/app-scripts": "3.1.10",
